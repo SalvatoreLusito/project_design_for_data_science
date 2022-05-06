@@ -1,0 +1,89 @@
+#  Project Design and Management for Data Science
+
+# Project Phases:
+- Chapter 1 - User need identification	
+  - 1.1 - Introduction	
+  - 1.2 - Methods	
+    - 1.2.1 - User identification 	
+    - 1.2.2 - Needs identification	
+  - 1.3 - Results	
+    - 1.3.1 -  User Identification	
+    - 1.3.2 - List of potential users	
+    - 1.3.3 - Personas	
+    - 1.3.4 - Needs Identification	
+    - 1.3.5 - Need Hypotheses:	
+    - 1.3.6 - Need statements	
+- Chapter 2 - User Needs Assessment: Rank and Decision	
+  - 2.1 - Introduction	
+  - 2.2 - Methods	
+    - 2.2.1 - Initial Needs Revision	
+    - 2.2.2 - Measurement of the number of users 	
+    - 2.2.3 - Measure of the importance	
+    - 2.2.4 - Measure of confidence	
+    - 2.2.5 - Normalization and ranking  	
+    - 2.2.6 - Final decision:
+  - 2.3 - Results	
+    - 2.3.1 - Initial needs revision results	
+    - 2.3.2 - Measurement of the number of users	
+    - 2.3.3 - Measure of importance	
+    - 2.3.4 - Measure of confidence	
+    - 2.3.5 - Need Assessment table	
+    - 2.3.6 - Need Assessment table (normalized and sorted)	
+    - 2.3.7 - Final need decision	
+- Chapter 3 - Project Management	
+  - 3.1 - Introduction	
+  - 3.2 - Flowchart	
+    - Task 1 - User List and Need Statement Task List	
+    - Task2 - User Need Assessment Task List	
+  - 3.3 - GANTT	
+    - Task 1	
+    - Task 2	
+  - 3.4 - RACI	
+    - Task 1	
+    - Task 2	
+- Chapter 4 - Solution Identification	
+  - 4.1 - Introduction	
+  - 4.2 - Methods	
+  - 4.3 - Results	
+    - 4.3.1 - Starting Point Idea	
+    - 4.3.2 - Possible Solutions	
+      - Smart things + post-pixel interfaces	
+      - Anticipatory + agentive	
+      - Backstage	
+      - Affective	
+      - Deep personalization	
+      - Context-aware	
+  - 4.4 - Summary Table of Solution Ideas	
+- Chapter 5 - Solution Assessment Report	
+  - 5.1 - Introduction	
+  - 5.2 - Methods	
+    - 5.2.1 - Initial Solution Revision and Merge	
+    - 5.2.2 - Impact Matrix	
+      - 5.2.2.1 - How to Assign Scores	
+  - 5.3- Results	
+    - 5.3.1 - Initial Solution Revision and Merge	
+    - 5.3.2 - Impact Matrix	
+      - 5.3.2.1 - Assigning Scores	
+      - 5.3.2.2 - Score Table	
+      - 5.3.2.3 - Solutions Plotted in the Matrix
+- Chapter 6 - PreTotype Report	
+  - 6.1 - Introduction	
+  - 6.2 - Methods	
+    - 6.2.1 - Fake Door	
+    - 6.2.2 - Paper Pretotype	
+  - 6.3 - Results	
+    - 6.3.1 - Fake Door feedback evaluation	
+    - 6.3.2 - Paper Pretotype feedback evaluation	
+      - 6.3.2.1 - Survey Results	
+      - 6.3.2.2 - Live Feedback from Testers	
+- Chapter 7 - Conclusions	
+- References	
+  - References (chapter 1)	
+  - References (chapter 2)	
+  - References (chapter 3)	
+  - References (chapter 5)	
+  - References (chapter 6)
+
+
+[Final_Report.pdf]
+(https://github.com/Savior97/project_design_for_data_science/files/8642388/Final.report.in.docx.pdf)
